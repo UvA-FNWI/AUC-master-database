@@ -1,462 +1,974 @@
-{
-  "Aalto University": {
-    "region": "Europe",
-    "lat": "60.185477399999996",
-    "lon": "24.828376366996668"
-  },
-  "Aarhus University": {
-    "region": "Europe",
-    "lat": "56.1672052",
-    "lon": "10.20260887096407"
-  },
-  "Anton Bruckner Privatuniversit\u00e4t": {
-    "region": "Europe",
-    "lat": "48.310834",
-    "lon": "14.269426208088234"
-  },
-  "Brown University": {
-    "region": "North America",
-    "lat": "41.82687235",
-    "lon": "-71.40122770696814"
-  },
-  "CDI Italia": {
-    "region": "Europe",
-    "lat": "45.4769706",
-    "lon": "9.2095993"
-  },
-  "Cardiff University": {
-    "region": "Europe",
-    "lat": "51.4907068",
-    "lon": "-3.18330823741322"
-  },
-  "Columbia University": {
-    "region": "North America",
-    "lat": "40.8079488",
-    "lon": "-73.96179735692117"
-  },
-  "Copenhagen Business School": {
-    "region": "Europe",
-    "lat": "55.677912649999996",
-    "lon": "12.523187369870843"
-  },
-  "Czech Technical University of Prague": {
-    "region": "Europe",
-    "lat": "50.07639595",
-    "lon": "14.417563076478725"
-  },
-  "ESCP Business School": {
-    "region": "Europe",
-    "lat": "48.8424383",
-    "lon": "2.3176561"
-  },
-  "Eindhoven University of Technology": {
-    "region": "Europe",
-    "lat": "51.4486602",
-    "lon": "5.4903995655080475"
-  },
-  "Erasmus University Rotterdam": {
-    "region": "Europe",
-    "lat": "51.9228696",
-    "lon": "4.487498568528366"
-  },
-  "Freie Universit\u00e4t Berlin": {
-    "region": "Europe",
-    "lat": "52.4550822",
-    "lon": "13.296031557619791"
-  },
-  "Gustave Roussy": {
-    "region": "Europe",
-    "lat": "48.8359658",
-    "lon": "2.3396553740726915"
-  },
-  "HEC Paris": {
-    "region": "Europe",
-    "lat": "48.758468050000005",
-    "lon": "2.1663459513667513"
-  },
-  "Hebrew University of Jerusalem": {
-    "region": "Asia",
-    "lat": "31.7918555",
-    "lon": "35.244723"
-  },
-  "Hertie School": {
-    "region": "Europe",
-    "lat": "52.51286911269649",
-    "lon": "13.389202145730048"
-  },
-  "Hult International Business School": {
-    "region": "Europe",
-    "lat": "51.5152219",
-    "lon": "-0.0676810282654535"
-  },
-  "INSEEC U.": {
-    "region": "Europe",
-    "lat": "45.6435133",
-    "lon": "5.8701582"
-  },
-  "Imperial College London": {
-    "region": "Europe",
-    "lat": "51.4989595",
-    "lon": "-0.17564125978794498"
-  },
-  "Karolinska Institute": {
-    "region": "Europe",
-    "lat": "59.219549549999996",
-    "lon": "17.94005487275674"
-  },
-  "King's College London": {
-    "region": "Europe",
-    "lat": "51.52715395",
-    "lon": "-0.09714322240645569"
-  },
-  "La Salle University": {
-    "region": "North America",
-    "lat": "40.0374268",
-    "lon": "-75.15402196552299"
-  },
-  "Leiden University": {
-    "region": "Europe",
-    "lat": "52.168633850000006",
-    "lon": "4.45966305742133"
-  },
-  "London School of Hygiene and Tropical Medicine": {
-    "region": "Europe",
-    "lat": "51.5209537",
-    "lon": "-0.13037143644571766"
-  },
-  "Lund University": {
-    "region": "Europe",
-    "lat": "58.163098500000004",
-    "lon": "8.001442632957419"
-  },
-  "Maastricht University": {
-    "region": "Europe",
-    "lat": "50.8373469",
-    "lon": "4.406164"
-  },
-  "Malm\u00f6 University": {
-    "region": "Europe",
-    "lat": "55.60885225",
-    "lon": "12.993250123534757"
-  },
-  "New York University": {
-    "region": "North America",
-    "lat": "40.72925325",
-    "lon": "-73.99625393609625"
-  },
-  "Oxford University": {
-    "region": "Europe",
-    "lat": "51.7520849",
-    "lon": "-1.2516646208312259"
-  },
-  "Paris-Sud University": {
-    "region": "Latin America",
-    "lat": "-22.12800155",
-    "lon": "-51.41311218762405"
-  },
-  "Radboud University": {
-    "region": "Europe",
-    "lat": "51.82151725",
-    "lon": "5.863403442541042"
-  },
-  "SOAS University of London": {
-    "region": "Europe",
-    "lat": "51.5218979",
-    "lon": "-0.1288676341954016"
-  },
-  "Sanquin": {
-    "region": "Europe",
-    "lat": "52.370340577328335",
-    "lon": "4.907861638172719"
-  },
-  "Sciences Po": {
-    "region": "Europe",
-    "lat": "48.85389775",
-    "lon": "2.3290212312658136"
-  },
-  "Stanford University": {
-    "region": "North America",
-    "lat": "37.431313849999995",
-    "lon": "-122.16936535498309"
-  },
-  "Stockholm School of Economics": {
-    "region": "Europe",
-    "lat": "56.9591273",
-    "lon": "24.1076116"
-  },
-  "Stockholm University": {
-    "region": "Europe",
-    "lat": "59.366141",
-    "lon": "18.059592960559392"
-  },
-  "Strasbourg Business School": {
-    "region": "Europe",
-    "lat": "48.584614",
-    "lon": "7.7507127"
-  },
-  "TU Delft": {
-    "region": "Europe",
-    "lat": "51.99882735",
-    "lon": "4.373960368154041"
-  },
-  "Technical University Munich": {
-    "region": "Europe",
-    "lat": "48.149554550000005",
-    "lon": "11.567753141783761"
-  },
-  "The Netherlands Cancer Institute": {
-    "region": "Europe",
-    "lat": "52.3494454",
-    "lon": "4.8253264"
-  },
-  "The University of Chicago": {
-    "region": "North America",
-    "lat": "41.7913505",
-    "lon": "-87.60084269431965"
-  },
-  "The University of Hong Kong": {
-    "region": "Asia",
-    "lat": "22.28269745",
-    "lon": "114.13845499995571"
-  },
-  "The University of Manchester": {
-    "region": "Europe",
-    "lat": "53.47396245",
-    "lon": "-2.2351186696632572"
-  },
-  "Tilburg University": {
-    "region": "Europe",
-    "lat": "51.56306085",
-    "lon": "5.043598467727852"
-  },
-  "Tsinghua University": {
-    "region": "Asia",
-    "lat": "40.002290450000004",
-    "lon": "116.3209629696906"
-  },
-  "UMC Utrecht": {
-    "region": "Europe",
-    "lat": "52.0870179",
-    "lon": "5.18009895237262"
-  },
-  "Universitair Medisch Centrum Groningen": {
-    "region": "Europe",
-    "lat": "53.22310875",
-    "lon": "6.5741402525499915"
-  },
-  "University College London": {
-    "region": "Europe",
-    "lat": "51.52420305",
-    "lon": "-0.13300072425929543"
-  },
-  "University of Amsterdam": {
-    "region": "Europe",
-    "lat": "52.3550626",
-    "lon": "4.9509648503886226"
-  },
-  "University of Auckland": {
-    "region": "Oceania",
-    "lat": "-36.8660955",
-    "lon": "174.77373305445155"
-  },
-  "University of Bath": {
-    "region": "Europe",
-    "lat": "51.37658545",
-    "lon": "-2.323423021360605"
-  },
-  "University of Bristol": {
-    "region": "Europe",
-    "lat": "51.4576128",
-    "lon": "-2.6016206507957573"
-  },
-  "University of California - Berkeley": {
-    "region": "North America",
-    "lat": "37.8753497",
-    "lon": "-122.23963364918777"
-  },
-  "University of Cambridge": {
-    "region": "Europe",
-    "lat": "52.1998523",
-    "lon": "0.11973865741074383"
-  },
-  "University of Coimbra": {
-    "region": "Europe",
-    "lat": "40.2072585",
-    "lon": "-8.425510695492804"
-  },
-  "University of Cologne": {
-    "region": "Europe",
-    "lat": "50.928038900000004",
-    "lon": "6.9281744676751575"
-  },
-  "University of Copenhagen": {
-    "region": "Europe",
-    "lat": "55.6801502",
-    "lon": "12.57232700140625"
-  },
-  "University of Edinburgh": {
-    "region": "Europe",
-    "lat": "55.94407645",
-    "lon": "-3.1883735563964555"
-  },
-  "University of Geneva": {
-    "region": "Europe",
-    "lat": "46.1935215",
-    "lon": "6.1515108"
-  },
-  "University of Groningen": {
-    "region": "Europe",
-    "lat": "53.21967825",
-    "lon": "6.562514822065418"
-  },
-  "University of Gr\u00eanoble-Alpes": {
-    "region": "Europe",
-    "lat": "45.185563",
-    "lon": "5.7854095"
-  },
-  "University of Kent": {
-    "region": "Europe",
-    "lat": "51.295015750000005",
-    "lon": "1.0673010856199983"
-  },
-  "University of Konstanz": {
-    "region": "Europe",
-    "lat": "47.690088599999996",
-    "lon": "9.188243876500252"
-  },
-  "University of Lausanne": {
-    "region": "Europe",
-    "lat": "46.5225695",
-    "lon": "6.580950497654294"
-  },
-  "University of Law": {
-    "region": "Europe",
-    "lat": "51.52055835",
-    "lon": "-0.131674573274454"
-  },
-  "University of Leeds": {
-    "region": "Europe",
-    "lat": "53.8066846",
-    "lon": "-1.5560378380435451"
-  },
-  "University of Leuven": {
-    "region": "Europe",
-    "lat": "50.8611279",
-    "lon": "4.696726917796607"
-  },
-  "University of Lisbon": {
-    "region": "Europe",
-    "lat": "38.75109295",
-    "lon": "-9.156203506379315"
-  },
-  "University of Oxford": {
-    "region": "Europe",
-    "lat": "51.75870755",
-    "lon": "-1.2556684826092037"
-  },
-  "University of Reading": {
-    "region": "Europe",
-    "lat": "51.4412092",
-    "lon": "-0.9453854"
-  },
-  "University of Sheffield": {
-    "region": "Europe",
-    "lat": "53.3815327",
-    "lon": "-1.4806602"
-  },
-  "University of Sussex": {
-    "region": "Europe",
-    "lat": "50.867955699999996",
-    "lon": "-0.08778561625438146"
-  },
-  "University of Ulster": {
-    "region": "Europe",
-    "lat": "55.0059145",
-    "lon": "-7.323124081364036"
-  },
-  "University of Vienna": {
-    "region": "Europe",
-    "lat": "48.2131284",
-    "lon": "16.360685994114505"
-  },
-  "University of Warwick": {
-    "region": "Europe",
-    "lat": "52.3813073",
-    "lon": "-1.5639569481637439"
-  },
-  "Utrecht University": {
-    "region": "Europe",
-    "lat": "52.0851623",
-    "lon": "5.1741064"
-  },
-  "VU University Medical Center Amsterdam": {
-    "region": "Europe",
-    "lat": "52.334632",
-    "lon": "4.8599107386474145"
-  },
-  "Vrije Universiteit Amsterdam": {
-    "region": "Europe",
-    "lat": "52.3337244",
-    "lon": "4.868224342134708"
-  },
-  "Wageningen University": {
-    "region": "Europe",
-    "lat": "51.98544495",
-    "lon": "5.663215776808785"
-  },
-  "Wegener Center Graz": {
-    "region": "Europe",
-    "lat": "47.07477885",
-    "lon": "15.447819456019928"
-  },
-  "Western University": {
-    "region": "North America",
-    "lat": "32.7139413",
-    "lon": "-117.0372503"
-  },
-  "\u00c9cole Polytechnique": {
-    "region": "Africa",
-    "lat": "34.6742703",
-    "lon": "-1.92086"
-  },
-  "Sapienza University of Rome": {
-    "region": "Europe",
-    "lat": "41.90376255903513",
-    "lon": "12.514406213008726"
-  },
-  "University of London - London School of Economics": {
-    "region": "Europe",
-    "lat": "51.51431857473374",
-    "lon": "-0.11629037367335283"
-  },
-  "University of London - Royal Holloway": {
-    "region": "Europe",
-    "lat": "51.42743671968568",
-    "lon": "-0.5629551466230702"
-  },
-  "University of Amsterdam - Academic Medical Center": {
-    "region": "Europe",
-    "lat": "52.29399448913956",
-    "lon": "4.959134502270645"
-  },
-  "University of London - Queen Mary": {
-    "region": "Europe",
-    "lat": "51.52423394798875",
-    "lon": "-0.04068563036606082"
-  },
-  "VIB-KU Leuven Center for Brain & Disease Researc": {
-    "region": "Europe",
-    "lat": "50.87927088511307",
-    "lon": "4.671176235861178"
-  },
-  "University of Amsterdam - AMOLF": {
-    "region": "Europe",
-    "lat": "52.356612548587634",
-    "lon": "4.9488868044524335"
-  },
-  "The New School": {
-    "region": "North America",
-    "lat": "40.73565809892742",
-    "lon": "-73.99424587280313"
-  }
-}
+[
+    {
+        "Name": "Aalto-yliopisto",
+        "region": "Europe",
+        "lat": "60.185477399999996",
+        "lon": "24.828376366996668"
+    },
+    {
+        "Name": "Aarhus Universitet",
+        "region": "Europe",
+        "lat": "56.1672052",
+        "lon": "10.20260887096407"
+    },
+    {
+        "Name": "Anton Bruckner Privatuniversität",
+        "region": "Europe",
+        "lat": "48.310834",
+        "lon": "14.269426208088234"
+    },
+    {
+        "Name": "Brown University",
+        "region": "North America",
+        "lat": "41.82687235",
+        "lon": "-71.40122770696814"
+    },
+    {
+        "Name": "Collège des Ingénieurs Italia",
+        "region": "Europe",
+        "lat": "45.4769706",
+        "lon": "9.2095993"
+    },
+    {
+        "Name": "Cardiff University",
+        "region": "Europe",
+        "lat": "51.4907068",
+        "lon": "-3.18330823741322"
+    },
+    {
+        "Name": "Columbia University",
+        "region": "North America",
+        "lat": "40.8079488",
+        "lon": "-73.96179735692117"
+    },
+    {
+        "Name": "Handelshøjskolen i København",
+        "region": "Europe",
+        "lat": "55.677912649999996",
+        "lon": "12.523187369870843"
+    },
+    {
+        "Name": "České vysoké učení technické v Praze",
+        "region": "Europe",
+        "lat": "50.07639595",
+        "lon": "14.417563076478725"
+    },
+    {
+        "Name": "École Supérieure de Commerce de Paris",
+        "region": "Europe",
+        "lat": "48.8424383",
+        "lon": "2.3176561"
+    },
+    {
+        "Name": "Technische Universiteit Eindhoven",
+        "region": "Europe",
+        "lat": "51.4486602",
+        "lon": "5.4903995655080475"
+    },
+    {
+        "Name": "Erasmus Universiteit Rotterdam",
+        "region": "Europe",
+        "lat": "51.9228696",
+        "lon": "4.487498568528366"
+    },
+    {
+        "Name": "Freie Universität Berlin",
+        "region": "Europe",
+        "lat": "52.4550822",
+        "lon": "13.296031557619791"
+    },
+    {
+        "Name": "Gustave Roussy",
+        "region": "Europe",
+        "lat": "48.8359658",
+        "lon": "2.3396553740726915"
+    },
+    {
+        "Name": "École des hautes études commerciales de Paris",
+        "region": "Europe",
+        "lat": "48.758468050000005",
+        "lon": "2.1663459513667513"
+    },
+    {
+        "Name": "Hebrew University of Jerusalem",
+        "region": "Asia",
+        "lat": "31.7918555",
+        "lon": "35.244723"
+    },
+    {
+        "Name": "Hertie School",
+        "region": "Europe",
+        "lat": "52.51286911269649",
+        "lon": "13.389202145730048"
+    },
+    {
+        "Name": "Hult International Business School",
+        "region": "Europe",
+        "lat": "51.5152219",
+        "lon": "-0.0676810282654535"
+    },
+    {
+        "Name": "INSEEC U.",
+        "region": "Europe",
+        "lat": "45.6435133",
+        "lon": "5.8701582"
+    },
+    {
+        "Name": "Imperial College London",
+        "region": "Europe",
+        "lat": "51.4989595",
+        "lon": "-0.17564125978794498"
+    },
+    {
+        "Name": "Karolinska Institutet",
+        "region": "Europe",
+        "lat": "59.219549549999996",
+        "lon": "17.94005487275674"
+    },
+    {
+        "Name": "King's College London",
+        "region": "Europe",
+        "lat": "51.52715395",
+        "lon": "-0.09714322240645569"
+    },
+    {
+        "Name": "La Salle University",
+        "region": "North America",
+        "lat": "40.0374268",
+        "lon": "-75.15402196552299"
+    },
+    {
+        "Name": "Universiteit Leiden",
+        "region": "Europe",
+        "lat": "52.168633850000006",
+        "lon": "4.45966305742133"
+    },
+    {
+        "Name": "London School of Hygiene and Tropical Medicine",
+        "region": "Europe",
+        "lat": "51.5209537",
+        "lon": "-0.13037143644571766"
+    },
+    {
+        "Name": "Lunds universitet",
+        "region": "Europe",
+        "lat": "58.163098500000004",
+        "lon": "8.001442632957419"
+    },
+    {
+        "Name": "Universiteit Maastricht",
+        "region": "Europe",
+        "lat": "50.8373469",
+        "lon": "4.406164"
+    },
+    {
+        "Name": "Malmö universitet",
+        "region": "Europe",
+        "lat": "55.60885225",
+        "lon": "12.993250123534757"
+    },
+    {
+        "Name": "New York University",
+        "region": "North America",
+        "lat": "40.72925325",
+        "lon": "-73.99625393609625"
+    },
+    {
+        "Name": "Oxford University",
+        "region": "Europe",
+        "lat": "51.7520849",
+        "lon": "-1.2516646208312259"
+    },
+    {
+        "Name": "Université Paris-Sud",
+        "region": "Latin America",
+        "lat": "-22.12800155",
+        "lon": "-51.41311218762405"
+    },
+    {
+        "Name": "Radboud Universiteit",
+        "region": "Europe",
+        "lat": "51.82151725",
+        "lon": "5.863403442541042"
+    },
+    {
+        "Name": "SOAS University of London",
+        "region": "Europe",
+        "lat": "51.5218979",
+        "lon": "-0.1288676341954016"
+    },
+    {
+        "Name": "Sanquin",
+        "region": "Europe",
+        "lat": "52.370340577328335",
+        "lon": "4.907861638172719"
+    },
+    {
+        "Name": "Sciences Po",
+        "region": "Europe",
+        "lat": "48.85389775",
+        "lon": "2.3290212312658136"
+    },
+    {
+        "Name": "Stanford University",
+        "region": "North America",
+        "lat": "37.431313849999995",
+        "lon": "-122.16936535498309"
+    },
+    {
+        "Name": "Handelshögskolan i Stockholm",
+        "region": "Europe",
+        "lat": "56.9591273",
+        "lon": "24.1076116"
+    },
+    {
+        "Name": "Stockholms universitet",
+        "region": "Europe",
+        "lat": "59.366141",
+        "lon": "18.059592960559392"
+    },
+    {
+        "Name": "École de Management Strasbourg",
+        "region": "Europe",
+        "lat": "48.584614",
+        "lon": "7.7507127"
+    },
+    {
+        "Name": "TU Delft",
+        "region": "Europe",
+        "lat": "51.99882735",
+        "lon": "4.373960368154041"
+    },
+    {
+        "Name": "Technische Universität München",
+        "region": "Europe",
+        "lat": "48.149554550000005",
+        "lon": "11.567753141783761"
+    },
+    {
+        "Name": "Nederlands Kanker Instituut",
+        "region": "Europe",
+        "lat": "52.3494454",
+        "lon": "4.8253264"
+    },
+    {
+        "Name": "The University of Chicago",
+        "region": "North America",
+        "lat": "41.7913505",
+        "lon": "-87.60084269431965"
+    },
+    {
+        "Name": "The University of Hong Kong",
+        "region": "Asia",
+        "lat": "22.28269745",
+        "lon": "114.13845499995571"
+    },
+    {
+        "Name": "The University of Manchester",
+        "region": "Europe",
+        "lat": "53.47396245",
+        "lon": "-2.2351186696632572"
+    },
+    {
+        "Name": "Tilburg University",
+        "region": "Europe",
+        "lat": "51.56306085",
+        "lon": "5.043598467727852"
+    },
+    {
+        "Name": "Tsinghua University",
+        "region": "Asia",
+        "lat": "40.002290450000004",
+        "lon": "116.3209629696906"
+    },
+    {
+        "Name": "Universitair Medisch Centrum Utrecht",
+        "region": "Europe",
+        "lat": "52.0870179",
+        "lon": "5.18009895237262"
+    },
+    {
+        "Name": "Universitair Medisch Centrum Groningen",
+        "region": "Europe",
+        "lat": "53.22310875",
+        "lon": "6.5741402525499915"
+    },
+    {
+        "Name": "University College London",
+        "region": "Europe",
+        "lat": "51.52420305",
+        "lon": "-0.13300072425929543"
+    },
+    {
+        "Name": "Universiteit van Amsterdam",
+        "region": "Europe",
+        "lat": "52.3550626",
+        "lon": "4.9509648503886226"
+    },
+    {
+        "Name": "University of Auckland",
+        "region": "Oceania",
+        "lat": "-36.8660955",
+        "lon": "174.77373305445155"
+    },
+    {
+        "Name": "University of Bath",
+        "region": "Europe",
+        "lat": "51.37658545",
+        "lon": "-2.323423021360605"
+    },
+    {
+        "Name": "University of Bristol",
+        "region": "Europe",
+        "lat": "51.4576128",
+        "lon": "-2.6016206507957573"
+    },
+    {
+        "Name": "University of California - Berkeley",
+        "region": "North America",
+        "lat": "37.8753497",
+        "lon": "-122.23963364918777"
+    },
+    {
+        "Name": "University of Cambridge",
+        "region": "Europe",
+        "lat": "52.1998523",
+        "lon": "0.11973865741074383"
+    },
+    {
+        "Name": "Universidade de Coimbra",
+        "region": "Europe",
+        "lat": "40.2072585",
+        "lon": "-8.425510695492804"
+    },
+    {
+        "Name": "Universität zu Köln",
+        "region": "Europe",
+        "lat": "50.928038900000004",
+        "lon": "6.9281744676751575"
+    },
+    {
+        "Name": "Københavns Universitet",
+        "region": "Europe",
+        "lat": "55.6801502",
+        "lon": "12.57232700140625"
+    },
+    {
+        "Name": "University of Edinburgh",
+        "region": "Europe",
+        "lat": "55.94407645",
+        "lon": "-3.1883735563964555"
+    },
+    {
+        "Name": "Université de Genève",
+        "region": "Europe",
+        "lat": "46.1935215",
+        "lon": "6.1515108"
+    },
+    {
+        "Name": "Rijksuniversiteit Groningen",
+        "region": "Europe",
+        "lat": "53.21967825",
+        "lon": "6.562514822065418"
+    },
+    {
+        "Name": "Université Grenoble-Alpes",
+        "region": "Europe",
+        "lat": "45.185563",
+        "lon": "5.7854095"
+    },
+    {
+        "Name": "University of Kent",
+        "region": "Europe",
+        "lat": "51.295015750000005",
+        "lon": "1.0673010856199983"
+    },
+    {
+        "Name": "Universität Konstanz",
+        "region": "Europe",
+        "lat": "47.690088599999996",
+        "lon": "9.188243876500252"
+    },
+    {
+        "Name": "University of Lausanne",
+        "region": "Europe",
+        "lat": "46.5225695",
+        "lon": "6.580950497654294"
+    },
+    {
+        "Name": "University of Law",
+        "region": "Europe",
+        "lat": "51.52055835",
+        "lon": "-0.131674573274454"
+    },
+    {
+        "Name": "University of Leeds",
+        "region": "Europe",
+        "lat": "53.8066846",
+        "lon": "-1.5560378380435451"
+    },
+    {
+        "Name": "Katholieke Universiteit Leuven",
+        "region": "Europe",
+        "lat": "50.8611279",
+        "lon": "4.696726917796607"
+    },
+    {
+        "Name": "Universidade de Lisboa",
+        "region": "Europe",
+        "lat": "38.75109295",
+        "lon": "-9.156203506379315"
+    },
+    {
+        "Name": "University of Oxford",
+        "region": "Europe",
+        "lat": "51.75870755",
+        "lon": "-1.2556684826092037"
+    },
+    {
+        "Name": "University of Reading",
+        "region": "Europe",
+        "lat": "51.4412092",
+        "lon": "-0.9453854"
+    },
+    {
+        "Name": "University of Sheffield",
+        "region": "Europe",
+        "lat": "53.3815327",
+        "lon": "-1.4806602"
+    },
+    {
+        "Name": "University of Sussex",
+        "region": "Europe",
+        "lat": "50.867955699999996",
+        "lon": "-0.08778561625438146"
+    },
+    {
+        "Name": "University of Ulster",
+        "region": "Europe",
+        "lat": "55.0059145",
+        "lon": "-7.323124081364036"
+    },
+    {
+        "Name": "Universität Wien",
+        "region": "Europe",
+        "lat": "48.2131284",
+        "lon": "16.360685994114505"
+    },
+    {
+        "Name": "University of Warwick",
+        "region": "Europe",
+        "lat": "52.3813073",
+        "lon": "-1.5639569481637439"
+    },
+    {
+        "Name": "Universiteit Utrecht",
+        "region": "Europe",
+        "lat": "52.0851623",
+        "lon": "5.1741064"
+    },
+    {
+        "Name": "VU Medisch Centrum",
+        "region": "Europe",
+        "lat": "52.334632",
+        "lon": "4.8599107386474145"
+    },
+    {
+        "Name": "Vrije Universiteit Amsterdam",
+        "region": "Europe",
+        "lat": "52.3337244",
+        "lon": "4.868224342134708"
+    },
+    {
+        "Name": "Wageningen University & Research",
+        "region": "Europe",
+        "lat": "51.98544495",
+        "lon": "5.663215776808785"
+    },
+    {
+        "Name": "Universität Graz",
+        "region": "Europe",
+        "lat": "47.07477885",
+        "lon": "15.447819456019928"
+    },
+    {
+        "Name": "Western University",
+        "region": "North America",
+        "lat": "32.7139413",
+        "lon": "-117.0372503"
+    },
+    {
+        "Name": "École Polytechnique",
+        "region": "Africa",
+        "lat": "34.6742703",
+        "lon": "-1.92086"
+    },
+    {
+        "Name": "Sapienza Università di Roma",
+        "region": "Europe",
+        "lat": "41.90376255903513",
+        "lon": "12.514406213008726"
+    },
+    {
+        "Name": "University of London - London School of Economics",
+        "region": "Europe",
+        "lat": "51.51431857473374",
+        "lon": "-0.11629037367335283"
+    },
+    {
+        "Name": "University of London - Royal Holloway",
+        "region": "Europe",
+        "lat": "51.42743671968568",
+        "lon": "-0.5629551466230702"
+    },
+    {
+        "Name": "University of Amsterdam - Medisch Centrum",
+        "region": "Europe",
+        "lat": "52.29399448913956",
+        "lon": "4.959134502270645"
+    },
+    {
+        "Name": "University of London - Queen Mary",
+        "region": "Europe",
+        "lat": "51.52423394798875",
+        "lon": "-0.04068563036606082"
+    },
+    {
+        "Name": "VIB-KU Leuven Center for Brain & Disease Researc",
+        "region": "Europe",
+        "lat": "50.87927088511307",
+        "lon": "4.671176235861178"
+    },
+    {
+        "Name": "University of Amsterdam - AMOLF",
+        "region": "Europe",
+        "lat": "52.356612548587634",
+        "lon": "4.9488868044524335"
+    },
+    {
+        "Name": "The New School",
+        "region": "North America",
+        "lat": 40.7356580989274,
+        "lon": "-73.99424587280313"
+    },
+    {
+        "Name": "Aalborg Universitet",
+        "region": "Europe",
+        "lat": 55.7076229202728,
+        "lon": 12.8610034487725
+    },
+    {
+        "Name": "Breda University of Applied Sciences",
+        "region": "Europe",
+        "lat": 51.5907247798274,
+        "lon": 4.79605319304056
+    },
+    {
+        "Name": "De Bildung Academie",
+        "region": "Europe",
+        "lat": 52.3634355552212,
+        "lon": 4.91373858697314
+    },
+    {
+        "Name": "Carl von Ossietzky Universität Oldenburg",
+        "region": "Europe",
+        "lat": 53.1467991737023,
+        "lon": 8.18330794824918
+    },
+    {
+        "Name": "Carnegie Mellon University",
+        "region": "North America",
+        "lat": 40.4432973925314,
+        "lon": -79.9423722207906
+    },
+    {
+        "Name": "Designhögskolan - Umeå universitet",
+        "region": "Europe",
+        "lat": 63.8209286104844,
+        "lon": 20.2768015323251
+    },
+    {
+        "Name": "Collège d'Europe",
+        "region": "Europe",
+        "lat": 51.2161336478795,
+        "lon": 3.2283943849215
+    },
+    {
+        "Name": "Eberhard-Karls-Universität Tübingen",
+        "region": "Europe",
+        "lat": 48.5253591976944,
+        "lon": 9.06085136747181
+    },
+    {
+        "Name": "École des hautes études en santé publique",
+        "region": "Europe",
+        "lat": 48.9081005304651,
+        "lon": 2.3652865835781
+    },
+    {
+        "Name": "École Polytechnique Fédérale de Lausanne",
+        "region": "Europe",
+        "lat": 46.5192180892716,
+        "lon": 6.56698290260298
+    },
+    {
+        "Name": "École Supérieure des Sciences Economiques et Commerciales",
+        "region": "Europe",
+        "lat": 45.7483653107338,
+        "lon": 4.8266248974061
+    },
+    {
+        "Name": "Eidgenössische Technische Hochschule Zürich",
+        "region": "Europe",
+        "lat": 47.3765487085219,
+        "lon": 8.54770309894727
+    },
+    {
+        "Name": "Escuela de Empresarios",
+        "region": "Europe",
+        "lat": 39.4621797850746,
+        "lon": -0.329046016726508
+    },
+    {
+        "Name": "European Law and Governance School",
+        "region": "Europe",
+        "lat": 37.9744389458293,
+        "lon": 23.7255298580764
+    },
+    {
+        "Name": "European University Institute",
+        "region": "Europe",
+        "lat": 43.8032415790851,
+        "lon": 11.2830126411197
+    },
+    {
+        "Name": "Geneva Graduate Institute",
+        "region": "Europe",
+        "lat": 46.2209188940775,
+        "lon": 6.14364026821283
+    },
+    {
+        "Name": "Global Campus of Human Rights",
+        "region": "Europe",
+        "lat": 45.4275981240423,
+        "lon": 12.3814732646837
+    },
+    {
+        "Name": "Grenoble-Institut des neurosciences",
+        "region": "Europe",
+        "lat": 45.1989685127103,
+        "lon": 5.74389477796754
+    },
+    {
+        "Name": "Handelshøyskolen BI",
+        "region": "Europe",
+        "lat": 59.949637807339,
+        "lon": 10.768337063332
+    },
+    {
+        "Name": "Helsingin yliopisto",
+        "region": "Europe",
+        "lat": 60.1698533856456,
+        "lon": 24.9506638797389
+    },
+    {
+        "Name": "Hochschule für Medien, Kommunikation und Wirtschaft",
+        "region": "Europe",
+        "lat": 50.9605892076202,
+        "lon": 6.92104322746084
+    },
+    {
+        "Name": "Hochschule für Musik und Tanz Köln",
+        "region": "Europe",
+        "lat": 50.9479343775349,
+        "lon": 6.96101689127071
+    },
+    {
+        "Name": "Hogeschool voor de Kunsten Rotterdam",
+        "region": "Europe",
+        "lat": 51.9071864804569,
+        "lon": 4.45930805854109
+    },
+    {
+        "Name": "Humboldt-Universitat zu Berlin",
+        "region": "Europe",
+        "lat": 52.5179809016215,
+        "lon": 13.3936872838502
+    },
+    {
+        "Name": "IE Business School",
+        "region": "Europe",
+        "lat": 40.4387907443063,
+        "lon": -3.68206641694027
+    },
+    {
+        "Name": "IE Universidad",
+        "region": "Europe",
+        "lat": 51.4994568717932,
+        "lon": -0.174764545035096
+    },
+    {
+        "Name": "Imperial College Business School",
+        "region": "Europe",
+        "lat": 51.4994279639562,
+        "lon": -0.174839113788811
+    },
+    {
+        "Name": "Inria - Institut national de recherche en sciences et technologies du numérique",
+        "region": "Europe",
+        "lat": 48.8445078866725,
+        "lon": 2.38458476597515
+    },
+    {
+        "Name": "Institut de hautes études internationales et du développement",
+        "region": "Europe",
+        "lat": 46.2230715689781,
+        "lon": 6.14468095756068
+    },
+    {
+        "Name": "Instituto Químico de Sarrià",
+        "region": "Europe",
+        "lat": 41.4033163722315,
+        "lon": 2.11969623917336
+    },
+    {
+        "Name": "International Business School of Barcelona",
+        "region": "Europe",
+        "lat": 41.3985033562493,
+        "lon": 2.13538175117462
+    },
+    {
+        "Name": "James Cook University",
+        "region": "Oceania",
+        "lat": -19.3256914492274,
+        "lon": 146.756638842329
+    },
+    {
+        "Name": "Johns Hopkins Bloomberg School of Public Health",
+        "region": "North America",
+        "lat": 39.3299801390977,
+        "lon": -76.6205176999999
+    },
+    {
+        "Name": "L-Università ta' Malta",
+        "region": "Europe",
+        "lat": 35.9023981874249,
+        "lon": 14.4847110101307
+    },
+    {
+        "Name": "Latvijas Universitate",
+        "region": "Europe",
+        "lat": 56.9508624331075,
+        "lon": 24.1163561129121
+    },
+    {
+        "Name": "Linköpings universitet",
+        "region": "Europe",
+        "lat": 58.3979038393605,
+        "lon": 15.5759857399773
+    },
+    {
+        "Name": "Ludwig-Maximillians-Universitat Munchen",
+        "region": "Europe",
+        "lat": 48.1510258406304,
+        "lon": 11.5798930836415
+    },
+    {
+        "Name": "Medical School Berlin",
+        "region": "Europe",
+        "lat": 52.4695330963202,
+        "lon": 13.3114908703537
+    },
+    {
+        "Name": "Nederlands Instituut voor Ecologie",
+        "region": "Europe",
+        "lat": 51.987019115424,
+        "lon": 5.67115106848283
+    },
+    {
+        "Name": "Oxford Brookes University",
+        "region": "Europe",
+        "lat": 51.7550592890827,
+        "lon": -1.2242065842198
+    },
+    {
+        "Name": "Peking University",
+        "region": "Europe",
+        "lat": 39.9869705138731,
+        "lon": 116.305852439117
+    },
+    {
+        "Name": "Regent's University London",
+        "region": "Asia",
+        "lat": 51.5313606026069,
+        "lon": -0.156947942329377
+    },
+    {
+        "Name": "Ruprecht-Karls-Universität Heidelberg",
+        "region": "Europe",
+        "lat": 49.4107088351297,
+        "lon": 8.70651138185293
+    },
+    {
+        "Name": "Sorbonne Université",
+        "region": "Europe",
+        "lat": 48.8510038660514,
+        "lon": 2.34014303942056
+    },
+    {
+        "Name": "SRH Hochschule Heidelberg",
+        "region": "Europe",
+        "lat": 49.413954792046,
+        "lon": 8.65109491253558
+    },
+    {
+        "Name": "Technische Universität Berlin",
+        "region": "Europe",
+        "lat": 52.5125976340807,
+        "lon": 13.3269530250516
+    },
+    {
+        "Name": "The London School of Economics and Political Science",
+        "region": "Europe",
+        "lat": 51.5145322460989,
+        "lon": -0.116451302704988
+    },
+    {
+        "Name": "Trinity College Dublin",
+        "region": "Europe",
+        "lat": 53.3440207864486,
+        "lon": -6.25452870053788
+    },
+    {
+        "Name": "Univerista di Bologna",
+        "region": "Europe",
+        "lat": 44.4969364725716,
+        "lon": 11.3523403305154
+    },
+    {
+        "Name": "Univeristy of St Andrews",
+        "region": "Europe",
+        "lat": 56.3417627872318,
+        "lon": -2.79436110593577
+    },
+    {
+        "Name": "Universidad Carlos III De Madrid",
+        "region": "Europe",
+        "lat": 40.410964711643,
+        "lon": -3.70661537646333
+    },
+    {
+        "Name": "Universität Bielefeld",
+        "region": "Europe",
+        "lat": 52.0367831710981,
+        "lon": 8.49523056848528
+    },
+    {
+        "Name": "Universität für Musik und darstellende Kunst Wien",
+        "region": "Europe",
+        "lat": 48.2018933272509,
+        "lon": 16.3848511106319
+    },
+    {
+        "Name": "Universität Graz",
+        "region": "Europe",
+        "lat": 47.0777058352004,
+        "lon": 15.4494919105806
+    },
+    {
+        "Name": "Universitat Pompeu Fabra",
+        "region": "Europe",
+        "lat": 41.379038577761,
+        "lon": 2.17987263911291
+    },
+    {
+        "Name": "Université Grenoble-Alpes",
+        "region": "Europe",
+        "lat": 45.1899013067703,
+        "lon": 5.72206258472501
+    },
+    {
+        "Name": "Université Paris: Panthéon-Sorbonne",
+        "region": "Europe",
+        "lat": 48.8468974561144,
+        "lon": 2.34489248367372
+    },
+    {
+        "Name": "Universiteit Twente",
+        "region": "Europe",
+        "lat": 52.2396997613413,
+        "lon": 6.84972562431868
+    },
+    {
+        "Name": "Universiteit voor Humanistiek",
+        "region": "Europe",
+        "lat": 52.0918041733376,
+        "lon": 5.12569625684109
+    },
+    {
+        "Name": "Universitetet i Oslo",
+        "region": "Europe",
+        "lat": 59.9405099230445,
+        "lon": 10.7214760535549
+    },
+    {
+        "Name": "University College Dublin",
+        "region": "Europe",
+        "lat": 53.3097844654978,
+        "lon": -6.22154678727499
+    },
+    {
+        "Name": "University for Peace",
+        "region": "Latin America",
+        "lat": 9.91928625397713,
+        "lon": -84.272543117409
+    },
+    {
+        "Name": "University of Essex",
+        "region": "Europe",
+        "lat": 51.8819435610314,
+        "lon": 0.945087860548118
+    },
+    {
+        "Name": "University of London",
+        "region": "Europe",
+        "lat": 51.5234503838276,
+        "lon": -0.130620491050076
+    },
+    {
+        "Name": "University of Surrey",
+        "region": "Europe",
+        "lat": 51.243176453903,
+        "lon": -0.589477131553481
+    },
+    {
+        "Name": "University of Toronto",
+        "region": "North America",
+        "lat": 43.6636173520518,
+        "lon": -79.3960490742275
+    },
+    {
+        "Name": "Uniwersytet Warszawski",
+        "region": "Europe",
+        "lat": 52.2404316794133,
+        "lon": 21.0186226550012
+    },
+    {
+        "Name": "Uppsala universitet",
+        "region": "Europe",
+        "lat": 59.8576099248458,
+        "lon": 17.6294650400563
+    },
+    {
+        "Name": "Zürcher Hochschule der Künste",
+        "region": "Europe",
+        "lat": 47.3905484587865,
+        "lon": 8.51151996826542
+    },
+    {
+        "Name": "Institut d'études politiques de Paris",
+        "region": "Europe",
+        "lat": 48.8539240620042,
+        "lon": 2.3288564394975
+    }
+]
